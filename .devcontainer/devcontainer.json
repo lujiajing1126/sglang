@@ -16,6 +16,9 @@
             ]
         }
     },
+    "features": {
+        "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+    },
     "forwardPorts": [],
     // The two lines below ensures that your local changes in the sglang
     // repo is automatically synced to the sglang pip package installed
